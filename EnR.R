@@ -4,6 +4,7 @@ library(reporttools); library(xtable); library(rugarch); library(lmtest); librar
 library(methods); library(vars); library(tsoutliers); library(FKF); library(astsa);
 library(EMD); library(hht); library(Rlibeemd); library(ggplot2); library(reshape);
 library(randtests); library(moments); library(tseriesChaos); library(fpp);
+library(Rssa); library(doBy); library(psychometric); library(TStools); library(ineq);
 library(plot3D); library(caret); library(RSNNS); library(nonlinearTseries);
 library(psych); library(xlsx);
 
